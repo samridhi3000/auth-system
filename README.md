@@ -51,7 +51,7 @@ The system follows industry-standard practices such as **credential validation, 
 
 ## 📊 Authentication Flowchart
 
-![User Authentication Flow]![auth-flowchart](https://github.com/user-attachments/assets/6889dacf-92d2-4494-92fb-ae2d0b3b9e5a)
+[auth-flowchart](https://github.com/user-attachments/assets/6889dacf-92d2-4494-92fb-ae2d0b3b9e5a)
 
 
 
@@ -157,6 +157,7 @@ auth-system/
 ├── package.json
 └── .env
 ```
+Built secure user authentication using JWT and bcrypt Implemented signup and login APIs with password hashing Protected routes using middleware for authorized access Tested APIs using Postman and followed REST standards<img width="1132" height="229" alt="image" src="https://github.com/user-attachments/assets/fb8f8da8-2cb2-4918-89c3-919c960247d8" />
 
 ---
 
@@ -179,5 +180,4 @@ auth-system/
 
 ---
 
-Built secure user authentication using JWT and bcrypt Implemented signup and login APIs with password hashing Protected routes using middleware for authorized access Tested APIs using Postman and followed REST standards<img width="1132" height="229" alt="image" src="https://github.com/user-attachments/assets/fb8f8da8-2cb2-4918-89c3-919c960247d8" />
 

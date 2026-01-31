@@ -51,7 +51,7 @@ The system follows industry-standard practices such as **credential validation, 
 
 ## 📊 Authentication Flowchart
 
-[auth-flowchart](https://github.com/user-attachments/assets/6889dacf-92d2-4494-92fb-ae2d0b3b9e5a)
+![auth-flowchart](https://github.com/user-attachments/assets/6889dacf-92d2-4494-92fb-ae2d0b3b9e5a)
 
 
 
